@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/QNKxWk6g/535be6fd-e324-4381-b792-c701926fc4d5.png" alt="Subwash banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/QNKxWk6g/535be6fd-e324-4381-b792-c701926fc4d5.png" alt="Subwash banner" width="100%">
+  <img src="[https://i.postimg.cc/QNKxWk6g/535be6fd-e324-4381-b792-c701926fc4d5.png](https://i.imgur.com/hLYcMap.jpeg)" alt="Subwash banner" width="100%">
 </p>
 
 # Subwash
